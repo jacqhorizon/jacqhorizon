@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jacqthedog
-- 👀 I’m interested in web development and games!
-- 🌱 I’m currently learning front end
-- 💞️ I’m looking to collaborate on ...not sure yet.
-- 📫 How to reach me: 
+- 👀 I’m interested in web development
+- 🌱 I’m currently expanding my code language knowledge
+- 💞️ I’m looking to collaborate on cool art and game projects
+- 📫 How to reach me: jacqkirkman@gmail.com
 
 <!---
 jacqthedog/jacqthedog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
