@@ -6,11 +6,11 @@
 
 **Currently Working On**
 
-* Pokemon Palettes | [Code](https://github.com/jacqthedog/pokemon-palettes) 
-* Portfolio Site | [Code](https://github.com/jacqthedog/portfolio-site) | [Demo](https://jacqkirkman.com/)
+* Pokemon Palettes | [Code](https://github.com/jacqhorizon/pokemon-palettes) 
+* Portfolio Site | [Code](https://github.com/jacqhorizon/portfolio-site) | [Demo](https://jacqkirkman.com/)
 
 **Past Projects**
 
-* Robot Events Script | [Code](https://gist.github.com/jacqthedog/da67a75d085386f89821c69bac23028f)
+* Robot Events Script | [Code](https://gist.github.com/jacqhorizon/da67a75d085386f89821c69bac23028f)
 * Chef Bop | [Demo](https://www.chefbop.com/)
-* Dress Up Game | [Code](https://github.com/jacqthedog/dress-up-game) | [Demo](https://jacqsdressupgame.pages.dev/)
+* Dress Up Game | [Code](https://github.com/jacqhorizon/dress-up-game) | [Demo](https://jacqsdressupgame.pages.dev/)
