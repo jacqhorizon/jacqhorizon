@@ -1,7 +1,7 @@
 **Jacq Horizon** | Software Engineer
 
 [![Linked In Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacq-horizon/)
-[![Email Badge Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacqkirkman@gmail.com)
+[![Email Badge Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jxhorizon@gmail.com)
 
 
 **Currently Working On**
